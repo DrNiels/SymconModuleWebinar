@@ -1,0 +1,15 @@
+{
+    "id": "{7C64BAD2-D2EF-0BC0-D02E-F2CD82524781}",
+    "name": "Versionspruefung",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Versionsprüfung"
+    ],
+    "url": "www.symcon.de",
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "VP"
+}

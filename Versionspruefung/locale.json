@@ -1,0 +1,11 @@
+{
+    "translations": {
+        "de": { 
+            "Update Interval": "Aktualisierungsintervall",
+            "hours": "Stunden",
+            "Current Version": "Aktuelle Version",
+            "Available Version": "Verfügbare Version",
+            "Last Update: %s": "Letzte Aktualisierung: %s"
+        }
+    }
+}
